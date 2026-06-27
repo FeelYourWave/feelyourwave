@@ -11,6 +11,7 @@ export default function HomePage() {
         height={96}
         className="rounded-full object-cover"
         priority
+        unoptimized
       />
 
       {/* Name */}
